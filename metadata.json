@@ -1,0 +1,6 @@
+{
+  "name": "仓库过期商品扫码核对系统",
+  "description": "面向仓库物流管理的过期及超期仓储商品快速扫码比对系统。支持扫码枪快速录入、自动比对、警报蜂鸣与语音播报，并能导出带Excel兼容BOM的过期商品核对异常报表。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
